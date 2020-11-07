@@ -1,4 +1,4 @@
-# fft-rs
+# fft-rs [![Test](https://github.com/arnaucube/fft-rs/workflows/Test/badge.svg)](https://github.com/arnaucube/fft-rs/actions?query=workflow%3ATest)
 
 Fast Fourier Transform implementation in Rust.
 
